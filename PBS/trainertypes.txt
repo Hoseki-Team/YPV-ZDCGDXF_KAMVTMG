@@ -1,0 +1,3 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+0,POKEMONTRAINER_Red,Pokémon Trainer,60,,,,Male,
+1,POKEMONTRAINER_Leaf,Pokémon Trainer,60,,,,Female,

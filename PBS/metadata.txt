@@ -1,0 +1,14 @@
+﻿[000]
+PlayerA=POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf_offset,boy_run,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset,boy_surf_offset
+PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf_offset,girl_run,girl_dive_offset,girl_fish_offset,girl_fishsurf_offset,girl_surf_offset
+TrainerBattleBGM=005-Boss01.mid
+SurfBGM=Ship.mid
+BicycleBGM=Airship.mid
+Home=3,7,5,8
+WildBattleBGM=002-Battle02.mid
+[001]
+# Intro
+[002]
+# Lappet Town
+MapPosition=0,13,12
+Outdoor=true
